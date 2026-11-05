@@ -1,4 +1,8 @@
+"Hanna is 25 years old.
 
+She has short brown hair and blue eyes. Her face is oval, with prominent cheekbones. Her eyebrows are slightly arched, and her eyes are set close together. She has a narrow nose with a rounded tip and a moderately wide mouth with a fuller lower lip.
+
+She usually has a calm, kind expression."
 import pytest
 import requests
 
